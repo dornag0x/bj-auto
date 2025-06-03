@@ -32,7 +32,7 @@ export default function Home() {
                 Spécialiste dépannage automobile & épaviste
               </p>
               <p className="text-base md:text-xl lg:text-2xl mb-6 md:mb-8 drop-shadow-md">
-                Dépannage 24h/24 - Enlèvement d'épaves gratuit - Diagnostic automobile - Transport de véhicules
+                Dépannage 24h/24 jusqu'à votre domicile ou à votre garage - Enlèvement d'épaves gratuit - Diagnostic automobile - Transport de véhicules
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button asChild size="lg" className="bg-automotive-600 hover:bg-automotive-700 text-white">

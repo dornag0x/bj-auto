@@ -31,7 +31,7 @@ const services = [
     features: [
       "Intervention 24h/24 et 7j/7",
       "Dépannage sur autoroute",
-      "Remorquage jusqu'au garage",
+      "Remorquage jusqu'au domicile ou garage",
       "Panne de batterie, crevaison",
       "Panne d'essence, clés enfermées",
       "Assistance à domicile",
